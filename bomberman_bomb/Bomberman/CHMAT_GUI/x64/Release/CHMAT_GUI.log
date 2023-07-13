@@ -1,0 +1,8 @@
+﻿  CHMAT_GUI.cpp
+C:\Users\Charbydis\Desktop\Bomberman\CHMAT_GUI\CHMAT_GUI.cpp(83,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\Charbydis\Desktop\Bomberman\CHMAT_GUI\CHMAT_GUI.cpp(102,8): warning C4101: 'dw': unreferenced local variable
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 114 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CHMAT_GUI.vcxproj -> C:\Users\Charbydis\Desktop\Bomberman\x64\Release\CHMAT_GUI.exe

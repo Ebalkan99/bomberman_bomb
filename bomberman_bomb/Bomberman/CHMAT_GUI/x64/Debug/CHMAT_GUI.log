@@ -1,0 +1,3 @@
+﻿  CHMAT_GUI.cpp
+C:\Users\Dell\Desktop\Yeni klasör\Bomberman\CHMAT_GUI\CHMAT_GUI.cpp(83,12): warning C4244: 'return': 'WPARAM' - 'int' dönüşümü; veri kaybı olabilir
+  CHMAT_GUI.vcxproj -> C:\Users\Dell\Desktop\Yeni klasör\Bomberman\x64\Debug\CHMAT_GUI.exe
